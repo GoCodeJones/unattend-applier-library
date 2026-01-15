@@ -1,12 +1,3 @@
-Perfect!
-
----
-
-## Step 10: File `README.md`
-
-Paste this into `README.md`:
-
-```markdown
 # Unattend Applier
 
 Apply Windows debloat and customization settings from autounattend.xml files to an already installed system.
@@ -181,4 +172,3 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## Disclaimer
 
 This tool modifies system settings. Use at your own risk. Always have backups.
-```
